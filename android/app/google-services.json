@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "801108383427",
+    "project_id": "flickerchat-c0d2f",
+    "storage_bucket": "flickerchat-c0d2f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:801108383427:android:c3ef1611c1752420643476",
+        "android_client_info": {
+          "package_name": "com.l2xdigital.flickerchat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "801108383427-ajmaispea71ikd9igofebc4169babhal.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.l2xdigital.flickerchat",
+            "certificate_hash": "5b6e6af85c54dede780ffece5b0a6a9568bf8a52"
+          }
+        },
+        {
+          "client_id": "801108383427-nn4ftg3rljj16bu4s7251qn1pjli3d6u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAdq9zJklOtLlwFCVU-jK5iNiGYNc305io"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "801108383427-nn4ftg3rljj16bu4s7251qn1pjli3d6u.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
