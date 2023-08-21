@@ -1,3 +1,6 @@
+#My Constants
+lib\shared\constants.dart
+
 # Miscellaneous
 *.class
 *.log
